@@ -1,7 +1,7 @@
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { NavLink, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
-import "./Navbar.css";
+import "./navbar.css";
 
 const menuItems = [
     { label: "Home", path: "/" },
