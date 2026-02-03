@@ -8,7 +8,7 @@ import Home from "./pages/Home/home";
 import About from "./pages/About/about";
 import Experience from "./pages/Experience/experience";
 import Project from "./pages/Project/project";
-import ProjectDetail from "./pages/Project/projectDetail";
+import ProjectDetail from "./pages/Project/projectdetail";
 
 function App() {
   return (
