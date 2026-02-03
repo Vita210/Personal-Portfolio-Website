@@ -1,7 +1,7 @@
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { FaGithub, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import "./Home.css";
+import "./home.css";
 
 const Home = () => {
     return (
