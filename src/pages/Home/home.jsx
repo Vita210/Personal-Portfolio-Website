@@ -46,7 +46,7 @@ const Home = () => {
                         <Col md={3} className="text-center mt-4 mt-md-0">
                             <div className="hero-image-wrapper animate-up" style={{ animationDelay: '0.6s' }}>
                                 <img
-                                    src="./public/pfp.jpg"
+                                    src="/images/pfp.jpg"
                                     alt="Flanella"
                                     className="hero-image"
                                 />

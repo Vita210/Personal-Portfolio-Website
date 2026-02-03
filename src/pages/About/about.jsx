@@ -38,7 +38,7 @@ const About = () => {
               {/* Left Content */}
               <div className="about-image-wrapper animate-up" style={{ animationDelay: '0.1s' }}>
                 <img
-                  src="./public/pfp.jpg"
+                  src="./images/pfp.jpg"
                   alt="Flanella"
                   className="hero-image"
                 />
