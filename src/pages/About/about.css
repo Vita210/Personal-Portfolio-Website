@@ -1,0 +1,75 @@
+.background-color {
+  background-color: #FAFAFA;
+}
+
+.about-card {
+  background: #EDF1FE;
+  border-radius: 20px;
+  padding: 20px 40px;
+  position: relative;
+  overflow: visible;
+}
+
+.skills-tools-card {
+  background: transparent;
+  padding: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.about-image-wrapper {
+  display: flex;
+  justify-content: end;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.about-title {
+  font-weight: bold;
+  color: #4C6EF5;
+}
+
+.about-desc {
+  font-size: 16px;
+}
+
+.chips-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.chip {
+  background-color: #EAEEFF !important;
+  color: #748FFC;
+  padding: 8px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.chip:hover {
+  background-color: #748FFC !important;
+  color: #EAEEFF;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.250);
+  transform: translateY(-5px);
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-up {
+  opacity: 0;
+  animation: fadeUp 0.8s ease forwards;
+}

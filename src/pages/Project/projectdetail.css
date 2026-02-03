@@ -1,0 +1,45 @@
+.background-color {
+  background-color: #FAFAFA;
+}
+
+.figma-btn {
+    background-color: #4C6EF5;
+    padding: 15px 25px;
+    color: #fff;
+    border-radius: 50px;
+    transition: all 0.2s ease;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 6px 0 #3b5bdb;
+}
+
+.figma-btn:hover {
+    background-color: #4463DD;
+    transform: translateY(2px);
+    box-shadow: 0 4px 0 #3953B8;
+}
+
+.btn-primary-custom:active {
+    transform: translateY(6px);
+    box-shadow: 0 1px 0 #3953B8;
+}
+
+.title-align {
+    text-align: center;
+}
+
+@keyframes fadeUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-up {
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards;
+}

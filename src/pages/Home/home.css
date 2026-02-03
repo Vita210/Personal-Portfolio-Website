@@ -1,0 +1,213 @@
+.background-color {
+    background-color: #FAFAFA;
+}
+
+.hero-wrapper {
+    padding: 50px 0;
+}
+
+.hero-card {
+    background: #EDF1FE;
+    border-radius: 20px;
+    padding: 80px;
+    position: relative;
+    overflow: visible;
+}
+
+.hero-greeting {
+    font-size: 20px;
+    font-weight: 600;
+    color: #111827;
+    margin-bottom: 8px;
+}
+
+.hero-title {
+    font-size: 50px;
+    font-weight: 700;
+    color: #4C6EF5;
+    line-height: 1.2;
+}
+
+.hero-desc {
+    margin-top: 16px;
+    max-width: 480px;
+    color: #6b7280;
+    font-size: 15px;
+}
+
+/* =========================
+   HERO BUTTON WRAPPER
+========================= */
+.hero-buttons {
+    margin-top: 28px;
+    display: flex;
+    align-items: center;
+}
+
+/* =========================
+   PRIMARY BUTTON
+========================= */
+.btn-primary-custom {
+    background-color: #4C6EF5;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-weight: 600;
+
+    cursor: pointer;
+    text-decoration: none;
+
+    box-shadow: 0 6px 0 #3b5bdb;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background-color 0.2s ease;
+}
+
+.btn-primary-custom:hover {
+    background-color: #4463DD;
+    transform: translateY(2px);
+    box-shadow: 0 4px 0 #3953B8;
+}
+
+.btn-primary-custom:active {
+    transform: translateY(6px);
+    box-shadow: 0 1px 0 #4463DD;
+}
+
+/* =========================
+   SECONDARY BUTTON (LINK SAFE)
+========================= */
+.btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #E4E9FE;
+    border: 1.5px solid #4C6EF5;
+    color: #4C6EF5;
+    font-weight: 600;
+
+    padding: 8px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+
+    box-shadow: 0 6px 0 #3b5bdb;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background-color 0.2s ease,
+        color 0.2s ease;
+}
+
+.btn-secondary:hover {
+    background-color: #C8D2FC;
+    color: #4463DD;
+    border-color: #4463DD;
+
+    transform: translateY(2px);
+    box-shadow: 0 4px 0 #4463DD;
+}
+
+.btn-secondary:active {
+    transform: translateY(6px);
+    box-shadow: 0 1px 0 #4463DD;
+}
+
+.hero-image-wrapper {
+    display: flex;
+    justify-content: end;
+}
+
+.hero-image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.hero-social {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+}
+
+.hero-social a {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: white;
+    color: #111827;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+.hero-social a:hover {
+    color: #4C6EF5;
+}
+
+.hero-skills {
+    position: absolute;
+    left: 50%;
+    bottom: -40px;
+    transform: translateX(-50%);
+    background: #748FFC;
+    border: 3px solid #576BBD;
+    border-radius: 30px;
+    padding: 18px;
+    width: 86%;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(79, 70, 229, 0.25);
+}
+
+.hero-skills-track {
+    display: flex;
+    width: max-content;
+    animation: scrollSkills 20s linear infinite;
+}
+
+.hero-skills span {
+    color: white;
+    font-weight: 500;
+    padding: 0 14px;
+    white-space: nowrap;
+    position: relative;
+}
+
+.hero-skills span::after {
+    content: "•";
+    margin-left: 18px;
+    color: white;
+}
+
+@keyframes scrollSkills {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+@keyframes fadeUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-up {
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards;
+}

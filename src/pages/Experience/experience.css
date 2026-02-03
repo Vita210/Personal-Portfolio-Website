@@ -1,0 +1,113 @@
+.background-color {
+  background-color: #FAFAFA;
+}
+
+.experience-card {
+    background-color: #EAEEFF;
+    border: none;
+    border-left: 5px solid #4C6EF5;
+    border-radius: 16px;
+    width: 100%;
+}
+
+.experience-title {
+    font-size: 20px;
+}
+
+.company-name {
+    color: #4C6EF5;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.experience-card ul {
+    padding-left: 18px;
+}
+
+.experience-card li {
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.date-badge {
+    background-color: transparent !important;
+    border: 1px solid #4C6EF5;
+    color: #4C6EF5;
+    font-weight: 500;
+    padding: 6px 14px;
+    font-size: 12px;
+}
+
+.view-certificate-btn {
+    background-color: #4C6EF5;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    box-shadow: 0 6px 0 #3b5bdb;
+}
+
+.view-certificate-btn:hover {
+    background-color: #4463DD;
+    box-shadow: 0 4px 0 #3953B8;
+    transform: translateY(2px);
+}
+
+.view-certificate-btn:active {
+    transform: translateY(6px);
+    box-shadow: 0 1px 0 #4463DD;
+}
+
+.credential-id{
+    font-size: small;
+}
+
+.credential-btn {
+    background-color: #4C6EF5;
+    color: #EAEEFF;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.credential-btn:hover {
+    background-color: #4338ca;
+}
+
+.close-btn {
+    background-color: transparent;
+    border: 1.5px solid #4C6EF5;
+    color: #4C6EF5;
+    /* font-weight: 500; */
+    padding: 7px 18px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.close-btn:hover {
+    background-color: #4338ca;
+    color: #ffffff;
+    border-color: transparent;
+}
+
+.title-align{
+    text-align: center;
+}
+
+@keyframes fadeUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-up {
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards;
+}
