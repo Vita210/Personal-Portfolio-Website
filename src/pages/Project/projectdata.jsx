@@ -6,7 +6,7 @@ const portfolioData = [
         title: "Stelluna",
         categories: ["UI/UX"],
         subtitle: "Salon Booking App",
-        text: "Stelluna is a mobile salon booking app concept for an Interaction Design course, allowing users to browse services, book appointments, and manage bookings",
+        text: "Stelluna is a mobile salon booking app concept for an Interaction Design course, allowing users to browse services, book appointments, and manage bookings.",
         image: "/porto-cover/Stelluna.png",
         figmaLink: "https://www.figma.com/design/l563krEnMUeN16wbQZEc03/B_9_Salon?node-id=43-254&t=k3YssUGmKLyDy2Kt-1",
 
@@ -26,7 +26,7 @@ const portfolioData = [
 
             {
                 type: "process",
-                title: "Design Process & Research Artifacts",
+                title: "Design Process & Research",
                 text: "To ensure the design addressed real user needs, I created several research and planning artifacts that guided design decisions.",
                 items: [
                     {
@@ -84,7 +84,7 @@ const portfolioData = [
         title: "Monkland Cheese Dairy",
         categories: ["UI/UX"],
         subtitle: "UI/UX Redesign",
-        text: "This group project for an Interaction Design course analyzed the Monkland Cheese Dairy website using Gestalt principles",
+        text: "This group project for an Interaction Design course analyzed the Monkland Cheese Dairy website using Gestalt principles.",
         image: "/porto-cover/Monkland.png",
         figmaLink: "https://www.figma.com/design/vAEnXFp8etTY2IgUa91aet/Desain-Interaksi?node-id=0-1&t=LCW0yG8WLoRjrpMd-1",
 
@@ -171,7 +171,7 @@ const portfolioData = [
         title: "Reservation Flow Design",
         categories: ["UI/UX"],
         subtitle: "Court & Restaurant reservation web",
-        text: "A UI/UX technical test project where I designed a reusable reservation layout in Figma",
+        text: "A UI/UX technical test project where I designed a reusable reservation layout in Figma.",
         image: "/porto-cover/Reservation.png",
         figmaLink: "https://www.figma.com/design/oQ9v2LOIwTKAaSikMoiOI0/Reservation?node-id=0-1&t=drAL1P8OYygy2kRZ-1",
 
@@ -230,7 +230,7 @@ const portfolioData = [
         title: "Meditalk",
         categories: ["UI/UX"],
         subtitle: "Mobile Learning Platform for ESP",
-        text: "MediTalk is a group project created for a real client, where we designed a mobile learning app prototype based directly on their ESP education needs",
+        text: "MediTalk is a group project created for a real client, where we designed a mobile learning app prototype based directly on their ESP education needs.",
         image: "/porto-cover/MediTalk.png",
         figmaLink: "https://www.figma.com/design/8ZDyBIHQhydMkrmG3SLdw8/Kapita-Selekta?node-id=0-1&t=MdAlU7G3oA4TF1Yk-1",
 
@@ -272,7 +272,7 @@ const portfolioData = [
         title: "Akses Peduli",
         categories: ["UI/UX"],
         subtitle: "Maps for People with Disabilities",
-        text: "This was a group project for an Entrepreneurship course, where we designed AksesPeduli, a mobile app concept aimed at helping people with disabilities find accessible routes, facilities, and public spaces",
+        text: "This was a group project for an Entrepreneurship course, where we designed AksesPeduli, a mobile app concept aimed at helping people with disabilities find accessible routes, facilities, and public spaces.",
         image: "/porto-cover/AksesPeduli.png",
         figmaLink: "https://www.figma.com/design/eOESVzyBfvQcvNE6VF1qXE/AksesPeduli?node-id=146-274&t=uMDISdFyLUfLhkxd-1",
 
@@ -324,7 +324,7 @@ const portfolioData = [
         title: "ReuseMart",
         categories: ["UI/UX", "Web Dev", "App Dev"],
         subtitle: "Secondhand Goods Selling Platform",
-        text: "ReuseMart is a group project focused on building a secondhand goods marketplace system, developed in both web and mobile app formats. The platform enables users to buy, sell, and donate used items through a streamlined consignment-based process",
+        text: "ReuseMart is a group project focused on building a secondhand goods marketplace system, developed in both web and mobile app formats. The platform enables users to buy, sell, and donate used items through a streamlined consignment-based process.",
         image: "/porto-cover/ReuseMart.png",
         figmaLink: "https://www.figma.com/design/i0U3VOhiRm5YA5QYgA9fN3/P3L?node-id=0-1&t=nLJBQxcTaOhXj2Mz-1",
 
@@ -379,7 +379,7 @@ const portfolioData = [
         title: "Atma Travel",
         categories: ["UI/UX", "App Dev"],
         subtitle: "Travel Booking App",
-        text: "This group project for the Pemrograman Berbasis Platform course involved building a mobile app to help Atma Travel manage bookings, reviews, and customer data",
+        text: "This group project for the Pemrograman Berbasis Platform course involved building a mobile app to help Atma Travel manage bookings, reviews, and customer data.",
         image: "/porto-cover/AtmaTravel.png",
         figmaLink: "https://www.figma.com/design/2DxJbYRNvmj0fUalUM7OFn/PBP_Kelompok5_Travel?node-id=0-1&t=jvitUuCaO7BxUZfs-1",
 
@@ -435,7 +435,7 @@ const portfolioData = [
         title: "Personal Portfolio Website",
         categories: ["UI/UX", "Web Dev"],
         subtitle: "A Personal Web Showcase",
-        text: "A personal portfolio website designed to showcase profile, skills, projects, and experiences with clear hierarchy and user-friendly navigation",
+        text: "A personal portfolio website designed to showcase profile, skills, projects, and experiences with clear hierarchy and user-friendly navigation.",
         image: "/porto-cover/PersonalPorto.png",
         figmaLink: "https://www.figma.com/design/mkm4kWRQQUpiHU6ygDSl02/Personal-Portfolio-Website?node-id=10-2603&t=DVmvbJObJaGbM9tK-1",
 
@@ -482,7 +482,7 @@ const portfolioData = [
         title: "CareTrails",
         categories: ["UI/UX"],
         subtitle: "Dexa Innovation Hackathon project",
-        text: "This group project for the Dexa Innovation Hackathon followed the Hipster–Hacker–Hustler model, where I led ideation, user flows, and low-fidelity prototyping as the Hipster",
+        text: "This group project for the Dexa Innovation Hackathon followed the Hipster–Hacker–Hustler model, where I led ideation, user flows, and low-fidelity prototyping as the Hipster.",
         image: "/porto-cover/CareTrails.png",
         figmaLink: "",
 
@@ -528,7 +528,7 @@ const portfolioData = [
         title: "Bid Plaza",
         categories: ["UI/UX", "Web Dev"],
         subtitle: "Auction Website",
-        text: "This was a group project to develop Bid Plaza, an online auction platform where users can list items, place bids, and track live updates in real time. Our team designed the user interface, built the front-end interactions, and structured the database to support secure and efficient bidding activities",
+        text: "This was a group project to develop Bid Plaza, an online auction platform where users can list items, place bids, and track live updates in real time. Our team designed the user interface, built the front-end interactions, and structured the database to support secure and efficient bidding activities.",
         image: "/porto-cover/BidPlaza.png",
         figmaLink: "https://www.figma.com/design/3nUrRjzVgpTxgewFL5YtaC/Tubes-Web?node-id=0-1&t=J9qQnMpadcgh0aJH-1",
 
@@ -557,6 +557,220 @@ const portfolioData = [
                     "Frontend: HTML, CSS, JavaScript",
                     "Database: MySQL",
                     "Figma for UI/UX Design",
+                ],
+            },
+        ],
+    },
+
+    {
+        id: "socialvit",
+        title: "SocialVit",
+        categories: ["UI/UX"],
+        subtitle: "Mentor Detail Dashboard & AI Micro Certification",
+        text: "This was a UI/UX internship project for SocialVit, where I designed the Mentor Detail dashboard and AI Micro Certification interface. The project involved creating wireframes, prototypes, and high-fidelity designs in Figma to support clear navigation and a better user experience.",
+        image: "/porto-cover/SocialVit.png",
+        figmaLink: "https://www.figma.com/design/jxbWW8rtGSIcskm9xAzjsT/Internship-Socialvit?node-id=0-1&t=z1bNFKd6szM0QDV5-1",
+
+        heroImages: [
+            "/porto-cover/SocialVit.png",
+            "/porto-hero/socialvit1.png",
+            "/porto-hero/socialvit2.png",
+        ],
+
+        sections: [
+            {
+                type: "overview",
+                title: "Project Overview",
+                text: "SocialVit is a platform designed to connect mentors and learners, offering a comprehensive solution for skill development and knowledge sharing. The platform enables mentors to create detailed profiles and offer micro-certifications, while learners can explore various courses and track their progress. The system is built to be accessible and easy to navigate for all users.",
+            },
+
+            {
+                type: "list",
+                title: "My Contribution",
+                text: "As a UI/UX Designer, I contributed to the design process by:",
+                items: [
+                    "Designing the Mentor Detail dashboard interface",
+                    "Designing the AI Micro Certification interface",
+                    "Creating wireframes and user flows to structure the experience",
+                    "Developing interactive prototypes and high-fidelity designs in Figma",
+                    "Applying usability principles and visual hierarchy to improve navigation",
+                    "Collaborating within the product development process to refine the designs",
+                ],
+            },
+
+            {
+                type: "list",
+                title: "Key Highlights",
+                items: [
+                    "Designed interfaces for a real-world digital platform",
+                    "Developed the design from wireframes to high-fidelity prototypes",
+                    "Worked on both dashboard and AI-supported product features",
+                    "Focused on creating clear, structured, and intuitive user experiences",
+                ],
+            },
+
+            {
+                type: "learning",
+                title: "Key Learnings",
+                text: "Through this internship project, I learned how to design structured dashboard interfaces for real-world products, develop UI workflows from wireframes to high-fidelity prototypes, and collaborate effectively within a product development process.",
+            },
+
+            {
+                type: "list",
+                title: "Technologies Used",
+                items: [
+                    "Figma for UI/UX Design",
+                ],
+            },
+        ],
+    },
+
+    {
+        id: "ybg",
+        title: "YBG",
+        categories: ["Web Dev"],
+        subtitle: "Marketplace Website",
+        text: "A web development internship project where I built responsive marketplace interfaces using Next.js, integrated APIs, and developed product and transaction-related features.",
+        image: "/porto-cover/YBG.png",
+        projectLink: "https://ybg-web-frontend.vercel.app/home",
+
+        heroImages: [
+            "/porto-cover/YBG.png",
+            "/porto-hero/ybg_web.png",
+        ],
+
+        sections: [
+            {
+                type: "overview",
+                title: "Project Overview",
+                text: "YBG Marketplace is a web-based marketplace platform for buying and selling branded products, designed to provide a responsive and user-friendly shopping experience. The project involved developing product, detail, and transaction-related interfaces while integrating dynamic data through APIs.",
+            },
+
+            {
+                type: "list",
+                title: "My Contribution",
+                text: "As a Front-End Developer, I contributed to the development process by:",
+                items: [
+                    "Developing responsive web interfaces using Next.js",
+                    "Building product, product detail, and transaction-related pages",
+                    "Integrating APIs to display and manage dynamic data",
+                    "Maintaining UI consistency across different pages",
+                    "Testing and fixing UI and functionality issues during development",
+                    "Collaborating with the backend developer during implementation and testing",
+                ],
+            },
+
+            {
+                type: "list",
+                title: "Key Highlights",
+                items: [
+                    "Developed frontend features for a real-world marketplace platform",
+                    "Implemented responsive interfaces using Next.js",
+                    "Integrated APIs for dynamic product and transaction data",
+                    "Worked collaboratively with a backend developer throughout development",
+                ],
+            },
+
+            {
+                type: "learning",
+                title: "Key Learnings",
+                text: "Through this internship project, I learned how to build real-world frontend features, integrate dynamic data from APIs, troubleshoot UI and functionality issues, and collaborate effectively within a small development team.",
+            },
+
+            {
+                type: "list",
+                title: "Technologies Used",
+                items: [
+                    "Next.js for Front-End Development",
+                    "Git & GitHub for Version Control",
+                ],
+            },
+        ],
+    },
+
+    {
+        id: "smb-ananda",
+        title: "SMB Ananda",
+        categories: ["UI/UX", "Web Dev"],
+        subtitle: "Information Website",
+        text: "An individual web development project where I designed and developed a responsive information website for SMB Ananda using Figma and React.js.",
+        image: "/porto-cover/SMB_Ananda.png",
+        figmaLink: "https://www.figma.com/design/dlVA7PSW4BEolBjwjSoMxI/Kerja-Praktik--Web-Vihara-?node-id=0-1&t=NQHw99HWUoyVmHll-1",
+        projectLink: "https://smb-ananda-llg.vercel.app",
+
+        heroImages: [
+            "/porto-cover/SMB_Ananda.png",
+            "/porto-hero/smbananda.png",
+        ],
+
+        sections: [
+            {
+                type: "overview",
+                title: "Project Overview",
+                text: "SMB Ananda is a web-based information platform developed for Sekolah Minggu Buddha Ananda to centralize announcements, schedules, galleries, and organizational information into a single accessible platform. The project involved designing the UI in Figma and developing a responsive frontend website using React.js.",
+            },
+
+            {
+                type: "process",
+                title: "Design Process",
+                text: "Before developing the website, I created several design artifacts to structure the content and establish a consistent visual direction.",
+                items: [
+                    {
+                        title: "Sitemap",
+                        text: "The sitemap was created to organize the website's content and define the overall navigation structure, covering key pages such as Home, Announcements, Gallery, Schedule, and Contact.",
+                        image: "/smb-ia/Sitemap.png",
+                    },
+                    {
+                        title: "Color Palette",
+                        text: "The color palette was selected to create a consistent visual identity and maintain a clean, welcoming appearance throughout the website.",
+                        image: "/smb-ia/Color.png",
+                    },
+                    {
+                        title: "Typography",
+                        text: "The typography system was defined to establish a clear visual hierarchy and maintain readability across different sections of the website.",
+                        image: "/smb-ia/Typography.png",
+                    },
+                ],
+            },
+
+            {
+                type: "list",
+                title: "My Contribution",
+                text: "As a UI/UX Designer and Frontend Developer, I worked on the project from design to implementation by:",
+                items: [
+                    "Designing the website UI and prototypes in Figma",
+                    "Developing responsive web interfaces using React.js",
+                    "Building pages including Home, Announcements, Gallery, Schedule, and Contact",
+                    "Translating UI designs into functional frontend components",
+                    "Ensuring consistent layout and usability across different pages",
+                    "Deploying the website using Vercel",
+                ],
+            },
+
+            {
+                type: "list",
+                title: "Key Highlights",
+                items: [
+                    "Developed an end-to-end website as an individual project",
+                    "Combined UI/UX design with frontend development",
+                    "Created a centralized platform for organizational information",
+                    "Implemented a responsive and user-friendly interface",
+                ],
+            },
+
+            {
+                type: "learning",
+                title: "Key Learnings",
+                text: "Through this project, I learned how to manage an end-to-end web development workflow, translate organizational needs into functional website features, and balance UI/UX design with frontend implementation while maintaining usability and accessibility.",
+            },
+
+            {
+                type: "list",
+                title: "Technologies Used",
+                items: [
+                    "Figma for UI/UX Design",
+                    "React.js for Frontend Development",
+                    "Vercel for Deployment",
                 ],
             },
         ],

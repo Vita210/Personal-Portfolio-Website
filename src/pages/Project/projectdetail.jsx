@@ -16,7 +16,7 @@ export default function ProjectDetail() {
             <Container className="py-5">
                 <div className="text-center mb-5 animate-up" style={{ animationDelay: `0.1s` }}>
                     {project.subtitle && (
-                        <p 
+                        <p
                             className="text-muted mb-2"
                         >
                             {project.subtitle}
@@ -24,7 +24,7 @@ export default function ProjectDetail() {
                     )}
 
                     <div className="title-align">
-                        <h1 
+                        <h1
                             className="fw-bold mb-3"
                         >
                             {project.title}
@@ -38,7 +38,18 @@ export default function ProjectDetail() {
                             href={project.figmaLink}
                             className="figma-btn"
                         >
-                            View Figma Design
+                            View Project
+                        </Button>
+                    )}
+
+                    {project.projectLink && (
+                        <Button
+                            variant="outline-dark"
+                            size="sm"
+                            href={project.projectLink}
+                            className="figma-btn ms-2"
+                        >
+                            View Website
                         </Button>
                     )}
                 </div>
