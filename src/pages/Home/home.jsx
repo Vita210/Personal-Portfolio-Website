@@ -28,7 +28,7 @@ const Home = () => {
                             <div className="hero-buttons animate-up">
                                 <Button 
                                     className="btn-primary-custom me-3" 
-                                    href="https://drive.google.com/file/d/1XckwNfootqh6H13u3diXXRRQvqlVzumn/view?usp=sharing"  
+                                    href="https://drive.google.com/file/d/1RQ5GqjWFVBQjVXdtvARw5Ip2YbQ1vPVc/view?usp=sharing"  
                                 >
                                     Download CV
                                 </Button>
