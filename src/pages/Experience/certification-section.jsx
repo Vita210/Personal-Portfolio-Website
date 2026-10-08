@@ -18,6 +18,14 @@ const certifications = [
     images: ["/certificates/ProblemSolving.png"],
     credentialLink: "https://www.hackerrank.com/certificates/63239afc1b2d",
   },
+  {
+    title: "EnglishScore",
+    company: "British Council",
+    date: "June 2026",
+    credentialId: "fe5d98031ce5",
+    images: ["/certificates/englishscore.jpg"],
+    credentialLink: "https://www.englishscore.com/verify",
+  },
 ];
 
 const CertificationSection = ({ onOpenModal }) => {

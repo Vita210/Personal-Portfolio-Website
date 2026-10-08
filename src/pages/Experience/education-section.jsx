@@ -13,7 +13,7 @@ const EducationSection = () => {
           <Row className="g-3 align-items-start">
             <Col xs={12} className="d-md-none mb-2">
               <Badge pill className="date-badge">
-                2022 - Present
+                2022 - 2026
               </Badge>
             </Col>
 
@@ -28,7 +28,7 @@ const EducationSection = () => {
 
             <Col md={3} className="d-none d-md-flex justify-content-md-end">
               <Badge pill className="date-badge">
-                2022 - Present
+                2022 - 2026
               </Badge>
             </Col>
           </Row>

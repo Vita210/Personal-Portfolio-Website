@@ -3,7 +3,18 @@ import "./experience.css";
 
 const experiences = [
     {
-        title: "UI/UX Designer",
+        title: "Website Developer Intern",
+        company: "PT Hanjaya Dayari Raya (DXYARY)",
+        date: "February - May 2026",
+        tasks: [
+            "Developed responsive and user-friendly frontend interfaces for an e-commerce website",
+            "Implemented product, detail, and transaction-related pages",
+            "Integrated frontend components with backend APIs and dynamic data",
+            "Fixed bugs and improved website functionality based on testing and feedback",
+        ],
+    },
+    {
+        title: "UI/UX Designer Intern",
         company: "PT Sinergi Insan Andalan",
         date: "October 2025 - January 2026",
         tasks: [
