@@ -8,6 +8,7 @@ const menuItems = [
     { label: "About Me", path: "/about" },
     { label: "Experience", path: "/experience" },
     { label: "Project", path: "/project" },
+    { label: "Graphic Design", path: "/graphic-design" },
 ];
 
 const AppNavbar = () => {

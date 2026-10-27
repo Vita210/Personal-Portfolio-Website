@@ -9,6 +9,7 @@ import About from "./pages/About/about";
 import Experience from "./pages/Experience/experience";
 import Project from "./pages/Project/project";
 import ProjectDetail from "./pages/Project/projectdetail";
+import GraphicDesign from "./pages/GraphicProject/GraphicDesign";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/experience" element={<Experience />} />
         <Route path="/project" element={<Project />} />
         <Route path="/project/:id" element={<ProjectDetail />} />
+        <Route path="/graphic-design" element={<GraphicDesign />} />
       </Routes>
     </BrowserRouter>
   );
