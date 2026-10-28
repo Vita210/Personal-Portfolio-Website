@@ -1,5 +1,5 @@
 import { Container, Badge } from "react-bootstrap";
-import "./graphicdesign.css";
+import "./GraphicDesign.css";
 import designData from "./designdata";
 
 export default function GraphicDesign() {
